@@ -2,13 +2,13 @@
     xmlns:common="bb_appfx_commontypes"
     ID="e3402fc1-6783-4003-8853-89ca2b90a2cc"
     Name="Food Item Add Batch Row Edit Form"
-    Description="Edit dataform template for fooditemadd batch records."
+    Description="Edit dataform template for fooditemadd batch records.."
     Author="Technical Training"
     RecordType="Food Item Add Batch"
     DataFormInstanceID="b9bf17f7-97e0-4cd7-9ecb-c8963078ed3a"
     common:SecurityUIFolder="Constituent\Food Bank\Food Item\Batch"
     SecurityUIDisplayFeature="false"
-    xmlns="bb_appfx_editdataformtemplate">
+    xmlns="bb_appfx_editdataformtemplate" >
   
 	<SPDataForm>
 		<LoadImplementation SPName="USR_USP_DATAFORMTEMPLATE_EDITLOAD_BATCHFOODITEMADDBATCHROW">
@@ -116,14 +116,19 @@ end catch
 
 return 0;
 
-]]></common:CreateProcedureSQL>
+]]>
+      
+      </common:CreateProcedureSQL>
+      <!--
       <common:ExpectedDBExceptions>
         <common:Constraints>
           <common:Constraint Name="CK_USR_BATCHFOODITEMADD_NAME" Field="NAME" Type="Required" />
           <common:Constraint Name="UIX_USR_BATCHFOODITEMADD_BATCHID_NAME" Field="NAME" Type="Unique" />
         </common:Constraints>
       </common:ExpectedDBExceptions>
+      -->
     </SaveImplementation>
+    
 	</SPDataForm>
   
 	<common:FormMetaData>

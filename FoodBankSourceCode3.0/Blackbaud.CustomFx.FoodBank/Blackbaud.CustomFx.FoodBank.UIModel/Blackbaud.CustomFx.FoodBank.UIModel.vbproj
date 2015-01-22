@@ -50,11 +50,11 @@
     <DebugType>full</DebugType>
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
-    <OutputPath>..\..\..\..\..\Inetpub\wwwroot\bbappfx25\bbappfx\SDK\DLLReferences\</OutputPath>
+    <OutputPath>..\..\..\..\..\..\..\..\InfinityWebServer\BBInfinityDev\bbappfx\vroot\bin\custom\</OutputPath>
     <DocumentationFile>
     </DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
-    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
     <CodeAnalysisRules>
     </CodeAnalysisRules>
     <CodeAnalysisRuleSet>Migrated rules for Blackbaud.CustomFx.FoodBank.UIModel.ruleset</CodeAnalysisRuleSet>
@@ -403,8 +403,8 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>xcopy "$(ProjectDir)\htmlforms\custom\blackbaud.customfx.foodbank\*.html" "D:\InfinityWebServer\BBInfinity_CRM_Stabilization\bbappfx\vroot\browser\htmlforms\custom\blackbaud.customfx.foodbank" /y
-xcopy "$(ProjectDir)\htmlforms\custom\blackbaud.customfx.foodbank\*.js" "D:\InfinityWebServer\BBInfinity_CRM_Stabilization\bbappfx\vroot\browser\htmlforms\custom\blackbaud.customfx.foodbank" /y
+    <PostBuildEvent>xcopy "$(ProjectDir)\htmlforms\custom\blackbaud.customfx.foodbank\*.html" "C:\InfinityWebServer\BBInfinityDev\bbappfx\vroot\browser\htmlforms\custom\blackbaud.customfx.foodbank\" /y
+xcopy "$(ProjectDir)\htmlforms\custom\blackbaud.customfx.foodbank\*.js" "C:\InfinityWebServer\BBInfinityDev\bbappfx\vroot\browser\htmlforms\custom\blackbaud.customfx.foodbank\" /y
 
 "C:\Windows\System32\inetsrv\appcmd.exe" recycle apppool DefaultAppPool
 

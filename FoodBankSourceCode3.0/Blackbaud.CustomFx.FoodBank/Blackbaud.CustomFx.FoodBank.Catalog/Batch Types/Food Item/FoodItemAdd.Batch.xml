@@ -106,24 +106,7 @@
       
     </BulkAddDuplicateRecordCheck>
     
-    <AutoMatch 
-      AutoMatchThresholdDataFormID=""
-      AutoMatchThresholdFormFieldID=""
-      OverallMatchThresholdFormFieldID=""
-      SearchResultScoreColumn=""
-      RaiseExceptionForAutoMatchesFieldID =""  
-      SaveAutoMatchDataFormID="" 
-      SaveAutoMatchDataFormMatchedFieldID=""  
-      >
-      
-      <UIAddIn AssemblyName="" ClassName="">
-        
-      </UIAddIn>
-      <RaiseExceptions AutoMatchRecordFieldID="" BatchRowFieldID="" RaiseExceptionColumn="" RaiseExceptionDataListID=""/>
-        
-      
-       
-    </AutoMatch>
+  
   </DuplicateRecordCheck>
 
   <Parameters>

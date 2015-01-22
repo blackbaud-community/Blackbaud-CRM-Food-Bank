@@ -189,15 +189,11 @@
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                        CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.FoodBankListBuilderCompositeColumn.Query.xml" />
 
-
-
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                        CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.Top5FoodBankShortage.DataList.xml" />
 
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                        CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.FoodBankTopShortages.UIWidget.xml" />
-
-
 
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                        CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.FoodBankWorkcenter.Page.xml" />
@@ -213,13 +209,14 @@
 
     <!--Constituent Batch Phone Extension-->
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
+                     CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.BatchConstituentPhoneExt.Table.xml" />
+    <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                            CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.USR_UFN_CONSTITUENTBATCH_GETPHONESWITHSEASONAL.xml" />
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                      CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.USR_USP_CONSTITUENTBATCHEXTCOMMIT_GETPHONESWITHSEASONAL_ADDFROMXML.xml" />
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                      CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.USR_USP_PHONES_VALIDATEPHONES.xml" />
-    <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
-                     CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.BatchConstituentPhoneExt.Table.xml" />
+    
     <common:Dependency CatalogAssembly="Blackbaud.CustomFx.FoodBank.Catalog.dll"
                      CatalogItem="Blackbaud.CustomFx.FoodBank.Catalog.BatchConstituentPhone.BatchExtension.xml" />
 
