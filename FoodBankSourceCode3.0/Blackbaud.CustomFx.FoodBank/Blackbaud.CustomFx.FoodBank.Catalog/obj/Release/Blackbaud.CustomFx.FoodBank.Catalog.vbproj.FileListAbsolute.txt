@@ -1,0 +1,15 @@
+D:\TFS Source\Emerging Markets\BBEC\SDK Training\TrainingCourse\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\bin\Release\Blackbaud.CustomFx.FoodBank.Catalog.dll
+D:\TFS Source\Emerging Markets\BBEC\SDK Training\TrainingCourse\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\bin\Release\Blackbaud.CustomFx.FoodBank.Catalog.pdb
+D:\TFS Source\Emerging Markets\BBEC\SDK Training\TrainingCourse\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\bin\Release\Blackbaud.AppFx.XmlTypes.XmlSerializers.dll
+D:\TFS Source\Emerging Markets\BBEC\SDK Training\TrainingCourse\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.dll
+D:\TFS Source\Emerging Markets\BBEC\SDK Training\TrainingCourse\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.pdb
+D:\DeleteME\FBSC\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\bin\Release\Blackbaud.CustomFx.FoodBank.Catalog.dll
+D:\DeleteME\FBSC\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\bin\Release\Blackbaud.CustomFx.FoodBank.Catalog.pdb
+D:\DeleteME\FBSC\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\bin\Release\Blackbaud.AppFx.XmlTypes.XmlSerializers.dll
+D:\DeleteME\FBSC\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.vbprojResolveAssemblyReference.cache
+D:\DeleteME\FBSC\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.dll
+D:\DeleteME\FBSC\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.pdb
+D:\InfinityWebServer\BBInfinity_CRM_Stabilization\bbappfx\vroot\bin\custom\Blackbaud.CustomFx.FoodBank.Catalog.dll
+D:\InfinityWebServer\BBInfinity_CRM_Stabilization\bbappfx\vroot\bin\custom\Blackbaud.CustomFx.FoodBank.Catalog.pdb
+C:\Users\TripOt\Documents\GitHub\Blackbaud-CRM-Food-Bank\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.dll
+C:\Users\TripOt\Documents\GitHub\Blackbaud-CRM-Food-Bank\FoodBankSourceCode3.0\Blackbaud.CustomFx.FoodBank\Blackbaud.CustomFx.FoodBank.Catalog\obj\Release\Blackbaud.CustomFx.FoodBank.Catalog.pdb
